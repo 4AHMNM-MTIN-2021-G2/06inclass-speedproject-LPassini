@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class End : MonoBehaviour
+public class EndScene : MonoBehaviour
 {
     public Data data;
     public Text name;

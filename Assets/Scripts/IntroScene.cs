@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class Intro : MonoBehaviour
+public class IntroScene : MonoBehaviour
 {
 
     public GameObject inputField;
